@@ -2,7 +2,6 @@
 
 Feastify is a Flutter application that makes discovering and saving your favorite meals fun and easy. The app lets you explore a wide variety of food categories, browse specific meals, and filter meals based on dietary preferences. Feastify uses Riverpod for state management, ensuring efficient and reactive state handling. To make the experience interactive and visually appealing, the app employs both implicit and explicit animations.
 
-![App Banner](images/banner.png)
 
 ---
 
@@ -12,7 +11,9 @@ Feastify is a Flutter application that makes discovering and saving your favorit
 - Displays a variety of food categories.
 - Tap on any category to explore meals specific to that category.
 
-![Categories Screenshot](images/categories.png)
+
+
+![Categories Screenshot](https://github.com/user-attachments/assets/0fb6771f-44fb-4ae5-b4c8-bb4fc54ef53a)
 
 ### 🍲 Meal List - Meals by Category
 - Each category opens up a list of meals.
@@ -36,7 +37,9 @@ Feastify is a Flutter application that makes discovering and saving your favorit
 - Open the Filters screen from the side drawer to customize your meal options.
 - Apply filters like **Gluten-Free**, **Lactose-Free**, **Vegetarian**, and **Vegan**.
 
-![Filters Screenshot](images/filters.png)
+
+![Filters Screenshot](https://github.com/user-attachments/assets/5a0742c6-cab1-4043-a22a-602abfb56ab5)
+
 
 ---
 
